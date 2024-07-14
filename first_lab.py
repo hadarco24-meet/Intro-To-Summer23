@@ -8,8 +8,3 @@ for i in range(len(days_of_the_week)):
 
 print(good_days_count)
 print(days_of_the_week)
-
-
-
-
-
